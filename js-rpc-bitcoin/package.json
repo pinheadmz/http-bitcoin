@@ -1,0 +1,15 @@
+{
+  "name": "js-rpc-bitcoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "bmocha --reporter spec test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bmocha": "^2.2.1",
+    "rpc-bitcoin-pinheadmz": "github:pinheadmz/rpc-bitcoin"
+  }
+}
